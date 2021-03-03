@@ -1,2 +1,5 @@
+import vasu
+
+
 a = 1
-print(a)
+print(vasu.say_hi(),a)
